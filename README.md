@@ -12,6 +12,7 @@ Hi, I'm **cspupil12**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/hero?username=cspupil12&theme=zen" alt="cspupil12 hero section" />
   </picture>
 </p>
+
 ## About Me
 
 <p align="center">
@@ -20,6 +21,7 @@ Hi, I'm **cspupil12**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/about?username=cspupil12&theme=zen" alt="cspupil12 about section" />
   </picture>
 </p>
+
 ## Skills
 
 <p align="center">
@@ -28,6 +30,7 @@ Hi, I'm **cspupil12**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/stack?username=cspupil12&theme=zen" alt="cspupil12 stack section" />
   </picture>
 </p>
+
 ## GitHub Stats
 
 <p align="center">
@@ -36,6 +39,7 @@ Hi, I'm **cspupil12**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/stats?username=cspupil12&theme=zen" alt="cspupil12 stats section" />
   </picture>
 </p>
+
 ## Projects
 
 <p align="center">
@@ -44,9 +48,7 @@ Hi, I'm **cspupil12**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/projects?username=cspupil12&theme=zen" alt="cspupil12 projects section" />
   </picture>
 </p>
-## Heatmap
 
-## Streak
 
 ## Connect
 
