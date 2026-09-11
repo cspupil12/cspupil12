@@ -3,9 +3,9 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,24,30&height=220&section=header&text=Jaspreet%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Founder%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Text -->
+   <!-- Animated Typing Text -->
   <a href="https://github.com/cspupil12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Jaspreet+Singh+;Technical+Founder+Building+in+Public;Turning+Ideas+Into+Intelligent+Software;Exploring+AI,+Automation,+and+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Jaspreet+Singh+👋;Technical+Founder+Building+in+Public;Turning+Ideas+Into+Intelligent+Software;Exploring+AI,+Automation,+and+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
