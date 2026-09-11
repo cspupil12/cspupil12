@@ -85,18 +85,18 @@ currently_building: Intelligent tools & scalable open-source apps
 
 ---
 
-###  GitHub Activity & Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
   <!-- Main GitHub Stats Card -->
   <a href="https://github.com/cspupil12">
-    <img src="https://github-readme-stats.vercel.app/api?username=cspupil12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="Jaspreet's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=cspupil12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Jaspreet's GitHub Stats" />
   </a>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/cspupil12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cspupil12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cspupil12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 
   <br/><br/>
