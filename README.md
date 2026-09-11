@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/cspupil12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Jaspreet+Singh+;Technical+Founder+Building+in+Public; Turning+Ideas+Into+Intelligent+Software; Exploring+AI,+Automation,+and+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Jaspreet+Singh+;Technical+Founder+Building+in+Public;Turning+Ideas+Into+Intelligent+Software;Exploring+AI,+Automation,+and+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -113,29 +113,57 @@ currently_building: Intelligent tools & scalable open-source apps
 ###  Featured Repositories
 
 <div align="center">
-  <table border="0">
+  <table width="100%">
     <tr>
-      <td>
-        <a href="https://github.com/cspupil12/Cleannum">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cspupil12&repo=Cleannum&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Cleannum" />
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/cspupil12/Cleannum">
+             Cleannum
+          </a>
+        </h3>
+        <p align="left">Data cleaning and numerical preprocessing library built for high-performance Python workflows.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Type-Open%20Source-2ea44f?style=flat-square" />
+        </p>
       </td>
-      <td>
-        <a href="https://github.com/cspupil12/AI-Support-Bot-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cspupil12&repo=AI-Support-Bot-&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI Support Bot" />
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/cspupil12/AI-Support-Bot-">
+             AI-Support-Bot-
+          </a>
+        </h3>
+        <p align="left">Intelligent automated support bot utilizing conversational AI and intent classification.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Domain-AI%20%26%20NLP-8A2BE2?style=flat-square" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/cspupil12/my-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cspupil12&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="My Portfolio" />
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/cspupil12/my-portfolio">
+             my-portfolio
+          </a>
+        </h3>
+        <p align="left">Responsive personal portfolio website showcasing projects, skills, and frontend design.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Frontend-HTML%20%2F%20CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Design-Responsive-orange?style=flat-square" />
+        </p>
       </td>
-      <td>
-        <a href="https://github.com/cspupil12/cspupil12">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cspupil12&repo=cspupil12&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Profile Repo" />
-        </a>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/cspupil12/cspupil12">
+             cspupil12
+          </a>
+        </h3>
+        <p align="left">My GitHub profile configuration repository and building-in-public hub.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/GitHub-Profile%20Hub-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+        </p>
       </td>
     </tr>
   </table>
