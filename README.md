@@ -1,52 +1,54 @@
-# cspupil12
+## Building in public
 
-> Memorable developer positioning.
+<div align="center">
 
-## Header
+# Jaspreet Singh
 
-Hi, I'm **cspupil12**. This README shares what I'm building, the tools I use, and the work I'm proud of.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=cspupil12&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=cspupil12&theme=zen" alt="cspupil12 hero section" />
-  </picture>
-</p>
-
-## About Me
+> Technical founder
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=cspupil12&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=cspupil12&theme=zen" alt="cspupil12 about section" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/hero?username=cspupil12&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208809061%3Fv%3D4" alt="cspupil12 hero visual" />
 </p>
 
-## Skills
+</div>
+
+## The point of view
+
+> Building useful things and learning in public.
+
+- 👥 **0** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## What I’m shipping
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=cspupil12&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=cspupil12&theme=zen" alt="cspupil12 stack section" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/highlights?username=cspupil12&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208809061%3Fv%3D4" alt="cspupil12 highlights visual" />
 </p>
 
-## GitHub Stats
+<p><b>Jaspreet Singh</b> is shipping 6 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/cspupil12/cspupil12">cspupil12</a></b></td><td>My GitHub profile<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/cspupil12/Cleannum">Cleannum</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/cspupil12/AI-Support-Bot-">AI-Support-Bot-</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/cspupil12/my-portfolio">my-portfolio</a></b></td><td>A selected project from this GitHub profile.<br/><sub>CSS · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>6</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>28</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=cspupil12&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=cspupil12&theme=zen" alt="cspupil12 stats section" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/social?username=cspupil12&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208809061%3Fv%3D4" alt="cspupil12 social visual" />
 </p>
 
-## Connect
+<a href="https://github.com/cspupil12">GitHub</a>
 
-LinkedIn: https://www.linkedin.com/in/jaspreet-singh-6805712a3/ · Email: contact@jaspreet.dpdns.org
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=cspupil12&theme=zen&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaspreet-singh-6805712a3%2F&email=contact%40jaspreet.dpdns.org&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=cspupil12&theme=zen&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaspreet-singh-6805712a3%2F&email=contact%40jaspreet.dpdns.org" alt="cspupil12 social section" />
-  </picture>
-</p>
+<p align="center"><sub>Jaspreet Singh · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
