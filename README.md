@@ -15,7 +15,7 @@
     <a href="https://github.com/cspupil12?tab=repositories">
       <img src="https://img.shields.io/badge/Projects-Building%20in%20Public-blueviolet?style=for-the-badge&logo=rocket" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:contact@jaspreet.dpdns.org">
       <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
     </a>
   </p>
